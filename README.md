@@ -30,13 +30,13 @@
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
+  <a href="www.linkedin.com/in/kauan-silva-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://instagram.com/SEU_INSTAGRAM_AQUI" target="_blank">
+  <a href="https://www.instagram.com/kauan.souza.__?igsh=MXh5dWJtbzU2ejA3dg==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
-  <a href="mailto:SEU_EMAIL_AQUI@GMAIL.COM">
+  <a href="kauansilvadesouza4@GMAIL.COM">
     <img src="https://img.shields.io/badge/Email-0056D2?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
 </div>
