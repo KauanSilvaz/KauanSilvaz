@@ -1,44 +1,168 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38B6FF&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+sou+o+Kauan+Silva!;Engenharia+da+Computa%C3%A7%C3%A3o;Python+%7C+JavaScript+%7C+Dados;Seja+bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
-</div>
+# 👨🏻‍💻 Kauan Silva
 
-<div align="center">
-  <h3>🚀 Acadêmico de Engenharia da Computação | Técnico em DS</h3>
-  <p>Focado em criar soluções eficientes, automações inteligentes e backends robustos.</p>
-</div>
+**`Estudante de Engenharia da Computação & Desenvolvedor FullStack`**
 
-<br>
+Me chamo Kauan Silva, sou estudante de Engenharia da Computação. Sou apaixonado por tecnologia, desenvolvimento de jogos multiplayer e automação. Atualmente, foco meus estudos e projetos em **Node.js**, **Firebase** e criação de soluções SaaS. Você pode entrar em contato comigo através do meu e-mail `kauansilvadesouza4@gmail.com` ou pelo meu [LinkedIn](https://www.linkedin.com/in/kauan-silva-dev).
 
-<div align="center">
-  <h3 align="center">🛠️ Arsenal Tecnológico</h3>
-  
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Node" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  
-  <img align="center" alt="Pandas" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-  <img align="center" alt="Postgres" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Firebase" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
-  <img align="center" alt="AWS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
+<p align="left">
+    <a href="https://www.linkedin.com/in/kauan-silva-dev">
+        <img 
+            alt="LinkedIn" 
+            title="Conecte-se no LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&style=for-the-badge"
+        />
+    </a>
+    <a href="mailto:kauansilvadesouza4@gmail.com">
+        <img 
+            alt="Email" 
+            title="Envie um Email" 
+            src="https://custom-icon-badges.demolab.com/badge/Email-D14836?logo=mail&logoColor=white&style=for-the-badge"
+        />
+    </a>
+    <a href="https://github.com/KauanSilvaz?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/KauanSilvaz?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/KauanSilvaz?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/KauanSilvaz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
-<br>
+---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/kauan-silva-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://www.instagram.com/kauan.souza.__?igsh=MXh5dWJtbzU2ejA3dg==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
-  </a>
-  <a href="mailto:kauansilvadesouza4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0056D2?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a>
-</div>
+### 🤖 Linguagens e Tecnologias
 
-<br>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap" 
+    title="Bootstrap"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="NodeJS" 
+    title="NodeJS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Flutter" 
+    title="Flutter"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="androidstudio" 
+    title="androidstudio"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Firebase" 
+    title="Firebase"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" 
+/>
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="OpenCV" 
+    title="OpenCV"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Dlib (C++)" 
+    title="Dlib"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Arduino" 
+    title="Arduino"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=KauanSilvaz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="Top Langs" 
+      height="200" 
+      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KauanSilvaz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+  />
+
+</p>
